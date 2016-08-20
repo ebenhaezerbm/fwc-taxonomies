@@ -1,0 +1,16 @@
+.categories-item {
+    list-style: none;
+}
+
+.category-item ul {
+	display: none;
+}
+
+.category-item i {
+	margin-right: 4px;
+	cursor: pointer;
+}
+
+.category-item a {
+	text-transform: capitalize;
+}
